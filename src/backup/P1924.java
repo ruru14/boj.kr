@@ -2,7 +2,9 @@ package backup;
 
 import java.util.*;
 
+//https://www.acmicpc.net/problem/1924
 public class P1924 {
+	
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		int m = input.nextInt();

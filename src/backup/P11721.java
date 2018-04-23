@@ -1,8 +1,10 @@
-package baekjoon;
+package backup;
 
-import java.util.*;
+import java.util.Scanner;
+import java.util.StringTokenizer;
 
-public class Main {
+//https://www.acmicpc.net/problem/11721
+public class P11721 {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
@@ -20,5 +22,4 @@ public class Main {
 		}
 		
 	}
-
 }
