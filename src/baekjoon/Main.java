@@ -49,7 +49,4 @@ public class Main {
 		read.close();
 		write.close();
 	}
-
-
-
 }
