@@ -19,7 +19,7 @@ public class Main {
 		int sum;
 		int flag;
 		double[] overAvg = new double[testCase];
-		
+
 		for(int i=0; i<testCase; i++){
 			token = new StringTokenizer(read.readLine(), " ");
 			member = Integer.parseInt(token.nextToken());
@@ -38,15 +38,16 @@ public class Main {
 			}
 			overAvg[i] = (double)flag/member * 100;
 		}
-		
+
 		for(int i=0; i<testCase; i++){
 			write.write(String.format("%.3f", overAvg[i]));
 			write.write("%");
 			write.newLine();
 		}
-		
+
 		write.flush();
 		read.close();
 		write.close();
 	}
+
 }
