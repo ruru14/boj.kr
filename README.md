@@ -1,4 +1,4 @@
-# noj.am
+# boj.kr
 Solving Baekjoon Online Judge
 
 https://www.acmicpc.net/user/ljw2889
