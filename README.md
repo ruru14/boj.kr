@@ -1,5 +1,5 @@
-# noj.am
-Solving Baekjoon Online Judge
+# boj.kr
+Solving Baekjoon Online Judge using JAVA
 
 https://www.acmicpc.net/user/ljw2889
 
